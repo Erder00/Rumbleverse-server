@@ -1,3 +1,5 @@
+# THIS RUMBLEVERSE SERVER WAS NOT MADE BY ME! ALL OF THE WORK WAS DONE BY THE PROJECTKO TEAM! (mainly gwog), Project KO is NOT in any way affiliated with this repo.
+
 # Instructions
 
 PRE-BUILD DLLS ARE IN THE /dlls FOLDER!
