@@ -1,4 +1,4 @@
-# THIS RUMBLEVERSE SERVER WAS NOT MADE BY ME! ALL OF THE WORK WAS DONE BY THE PROJECTKO TEAM! (mainly gwog), Project KO is NOT in any way affiliated with this repo.
+# THIS RUMBLEVERSE SERVER WAS NOT MADE BY ME! ALL OF THE WORK WAS DONE IN THE PAST BY THE PROJECTKO TEAM BEFORE THE SHUTDOWN! Project KO is NOT in any way affiliated with this repo.
 
 # Instructions
 
