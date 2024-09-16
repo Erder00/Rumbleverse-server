@@ -1,4 +1,6 @@
-# THIS RUMBLEVERSE SERVER WAS NOT MADE BY ME! ALL OF THE WORK WAS DONE IN THE PAST BY THE PROJECTKO TEAM BEFORE THE SHUTDOWN! Project KO is NOT in any way affiliated with this repo.
+Project KO is NOT in any way affiliated with this repo.
+
+tutorial on hosting a server: https://www.youtube.com/watch?v=cQbfDYAfqz8 (watch this if you don't know what you're doing)
 
 # Instructions
 
